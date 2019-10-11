@@ -1,0 +1,2 @@
+delete data before going for a load
+how to give dataflow jobname in daily process?
