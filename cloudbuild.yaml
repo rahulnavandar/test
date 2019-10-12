@@ -1,5 +1,5 @@
 steps:
-- name: test-trigger
+- name: ubuntu
   args: ['bash', '-c', "echo '$COMMIT_SHA' > REVISION.txt"]
 - name: gcr.io/cloud-builders/gsutil
   args:
